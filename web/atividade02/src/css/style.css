@@ -1,0 +1,69 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+section {
+    padding: 10px;
+}
+nav {
+    size: 100%;
+}
+aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: rgb(153, 151, 151);
+    
+    
+  }
+.blog-title {
+    display: inline-flex;
+    block-size: 20%;
+}
+#datetime {
+    display: inline-flex;
+    font-size: 10;
+}
+
+img {
+    display: block;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    text-decoration: none;
+    display: block;
+    padding: 8px;
+    background-color: #360062;
+    inline-size: 100%;
+
+  }
+a {
+    color: white;
+}
+main {
+    padding: 0px;
+    color: white;
+    background-color: rgb(33, 32, 44);
+}
+
+footer {
+    text-align: center;
+    background-color: aliceblue;
+    font-style: italic;
+    color: black;
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
